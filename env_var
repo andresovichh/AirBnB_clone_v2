@@ -1,0 +1,9 @@
+#!/bin/bash
+#Setting variables de entorno
+
+export HBNB_ENV=""
+export HBNB_MYSQL_USER=""
+export HBNB_MYSQL_PWD=""
+export HBNB_MYSQL_HOST=""
+export HBNB_MYSQL_DB=""
+export HBNB_TYPE_STORAGE=""
