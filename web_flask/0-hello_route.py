@@ -1,10 +1,12 @@
 #!/usr/bin/python3
 """
-This is a module that contains a Flask route"""
+This is a module that contains a Flask route
+"""
 
 from flask import Flask
 
 app = Flask(__name__)
+
 
 @app.route('/', strict_slashes=False)
 def hello_world():
