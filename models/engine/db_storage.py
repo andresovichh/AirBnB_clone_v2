@@ -2,7 +2,6 @@
 """ Define new engine DBStorage
 """
 
-
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.orm import scoped_session
